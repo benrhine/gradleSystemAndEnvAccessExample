@@ -1,4 +1,7 @@
 # gradleSystemAndEnvAccessExample
+
+![Java CI with Gradle](https://github.com/benrhine/gradleSystemAndEnvAccessExample/workflows/Java%20CI%20with%20Gradle/badge.svg)
+
 Example of how to access system and environment variables at different points during grails application startup
 
 Add the following environment variables to your `~/.bash_profile`
